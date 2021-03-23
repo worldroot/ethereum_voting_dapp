@@ -1,4 +1,4 @@
-pragma solidity ^0.6.4;
+pragma solidity ^0.5.1;
 // We have to specify what version of compiler this code will compile with
 
 contract Voting {
