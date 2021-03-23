@@ -46,4 +46,3 @@ contract Voting {
     return false;
   }
 }
-deployedContract.methods.voteForCandidate(web3.utils.asciiToHex('Youssef')).send({from: '0xac52cb7451680321AC46C999D0423b4226752228'}).then((f) => console.log(f))
